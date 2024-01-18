@@ -4,6 +4,7 @@
 
 - <b> KALI Linux</b>
   - [File Permissions in KALI Linux](https://github.com/JasemineJackson/JasemineJackson/blob/main/File%20permissions%20in%20Linux.pdf)
+  - [Decrypting A File](https://github.com/JasemineJackson/JasemineJackson/blob/main/Decrypting%20A%20File.pdf)
 - <b>Python</b>
   - [Algorith for File updates in Python](https://github.com/JasemineJackson/JasemineJackson/blob/main/Algorithm-for-file-updates-in-Python.docx.pdf)
 - <b>Wireshark</b>
@@ -15,5 +16,9 @@
 
 [linkedin]: www.linkedin.com/in/jasemine-jackson-4b9391166
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
+-  Microsoft Azure to:
+-    Create an active Directory
+-    Create a Virtual Machiine
+-    Create and operate a Remote Desktop
 - ⚡ Fun fact: ...
