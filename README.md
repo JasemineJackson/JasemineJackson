@@ -1,5 +1,5 @@
 <h1>🤗Hello there, I'm Jasemine!🤗</h1>
-<h2>Help Desk Technitian</h2>
+<h2>Security Analyst</h2>
 <h2> 🖥Cybersecurity Labs:</h2>
 
 - <b> KALI Linux</b>
