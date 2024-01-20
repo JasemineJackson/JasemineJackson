@@ -1,5 +1,5 @@
 <h1>🤗Hello there, I'm Jasemine!🤗</h1>
-<h2>Security Analyst</h2>
+<h2>Help Desk Technitian</h2>
 <h2> 🖥Cybersecurity Labs:</h2>
 
 - <b> KALI Linux</b>
@@ -10,13 +10,9 @@
 - <b>SQL</b>
   - [Apply Filter to SQL Queries](https://github.com/JasemineJackson/JasemineJackson/blob/main/Apply%20filters%20to%20SQL%20queries.docx)
 
-<h2> 🤳 Let's connect!:</h2>
-
-[linkedin]: www.linkedin.com/in/jasemine-jackson-4b9391166
-
-- 🔭 I’m currently working on
--  Microsoft Azure:
-  -  Create an active Directory
-  -  Create a Virtual Machiine
-  -  Create and operate a Remote Desktop
-- ⚡ Fun fact: ...
+ <h3>🦾 I’m currently working on 🦾</h3>
+ 
+- <b>Microsoft Azure:</b>
+  -  Active Directory 
+  -  Virtual Machiine 
+  -  Remote Desktop 
