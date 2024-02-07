@@ -16,3 +16,4 @@
   -  Active Directory 
   -  Virtual Machine 
   -  Remote Desktop 
+- Studying for the CompTIA Security + certicication
